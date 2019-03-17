@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="time_zero">0:00:000</string>
+</resources>
